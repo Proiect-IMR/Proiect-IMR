@@ -9,5 +9,6 @@ Demo GhostlyHunt -> https://clipchamp.com/watch/FHEdQ7kvRl8?utm_source=share&utm
 
 ![Unity2](https://github.com/Proiect-IMR/Proiect-IMR/assets/36382081/79895430-a05b-440a-b5df-d74ab14e5200)
 
-![Unity3](https://github.com/Proiect-IMR/Proiect-IMR/assets/36382081/e62f7010-af87-459f-9049-46fc7a31602f)
+![Unity3](https://github.com/Proiect-IMR/Proiect-IMR/assets/36382081/79c495c0-93b6-46cc-ba77-ad52884bea87)
+
 
