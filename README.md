@@ -3,7 +3,8 @@ State of art -> https://docs.google.com/document/d/1j2LIBJtaXWi5p8AUNfjJqLOgJskB
 Laborator 5 -> https://docs.google.com/document/d/1GXaf1HrekcAuz38qmZMcn3qLcBmMmG8uwxyvITBbP1A/edit#heading=h.2lsxvbhyp4xj
 Laborator 7(pre-partial) ->
 Demo GhostlyHunt -> https://clipchamp.com/watch/FHEdQ7kvRl8?utm_source=share&utm_medium=social&utm_campaign=watch
-Laborator 9 -> Added UI 
+Laborator 9 
+            -> Added UI 
             -> Dialogue Scene https://drive.google.com/file/d/1Y2nbQNCWH1vOuvutLHx0XmoBsbHYi2mV/view?usp=sharing
             -> Dialogue new Demo https://drive.google.com/file/d/1wjVPgw9WLqKMkdWcyT_z9Ci_4rFMkG9h/view?usp=sharing
 
