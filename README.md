@@ -5,10 +5,10 @@ Documentație detaliată disponibilă [aici](https://docs.google.com/document/d/
 
 ## Laboratoare
 - [Laborator 5](https://docs.google.com/document/d/1GXaf1HrekcAuz38qmZMcn3qLcBmMmG8uwxyvITBbP1A/edit#heading=h.2lsxvbhyp4xj)
-- Laborator 7 (pre-partial) -> *Link-ul lipsește*
+- Laborator 7 (pre-partial) -> - [Demo GhostlyHunt](https://clipchamp.com/watch/FHEdQ7kvRl8?utm_source=share&utm_medium=social&utm_campaign=watch)
 
-## Demos
-- [Demo GhostlyHunt](https://clipchamp.com/watch/FHEdQ7kvRl8?utm_source=share&utm_medium=social&utm_campaign=watch)
+
+
 
 ## Progres Laboratoare
 ### Laborator 9
