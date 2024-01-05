@@ -23,7 +23,7 @@
 - [Demo video for current state](https://drive.google.com/file/d/1nokihEIQxLApQcL5rq93Z3ml_dbC3tx_/view?usp=sharing)
 
   ### New Repository
-- [New Repo][https://github.com/Proiect-IMR/GhostlyHunt]
+- [New Repo](https://github.com/Proiect-IMR/GhostlyHunt)
 
 ## Screenshots
 ![WireFrames](https://github.com/Proiect-IMR/Proiect-IMR/assets/36382081/0e48121d-1824-42eb-904b-abd63a957324)
